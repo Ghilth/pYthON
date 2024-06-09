@@ -1,0 +1,2 @@
+# pYthON
+some python exercises
