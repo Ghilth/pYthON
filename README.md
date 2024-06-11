@@ -1,2 +1,2 @@
 # pYthON
-some python exercises
+some python exercises inspired of Kevin Degila github exercises about data analysis 
